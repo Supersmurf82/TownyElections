@@ -1,0 +1,2 @@
+max-duration: 10080 #maximum time an election can last in minutes (10080 minutes = 7days)
+min-duration: 60 #minimum time an election can last in minutes
